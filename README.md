@@ -1,5 +1,3 @@
 # MFSRM-proc
 
-Difference of Gaussians (DoG)
-Semantic segmentation
-Gaussian fitting (for signle bursts) mask
+This README is still in progress. The project is also at works.
